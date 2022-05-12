@@ -1,0 +1,9 @@
+Variables: Una variable es como las memorias de las calculadoras científicas. Pero en este caso se podrá guardar algo alfanumérico que se identifique con un codigo o variable.
+
+Strings: Es un bloque de texto, es decir una palabra o mas de una, que se usan en las variables-
+
+Funciones (argumentos, return): Es parecido a la variable, pero como bien lo indica su propia palabra tienen la función de hacer algo, de devolver un valor, ya sea numero o letras cuando se ejecute su comando. El argumento sería el agregado o la indicación que se le va a dar a la función para que devuelva algo en específico, como por ejemplo un nombre. Mediante el return se va a especificar lo que se quiere devolver de la función, como por ejemplo el resultado de una suma
+
+Declaraciones if: Acá nos habla de condición. Igual que en el caso anterior (de las funciones) nos va a devolver algo pero "si" pasa una cosa, no pasa o las dos.
+
+Valores booleanos (true, false): Cuando hablamos de valores booleanos nos referimos a un código binario (blanco o negro). En este caso Verdadero o Falso.
