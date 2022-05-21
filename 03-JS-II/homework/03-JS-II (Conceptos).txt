@@ -1,0 +1,7 @@
+
+for: Es una expresión que nos va a permitir formar un bucle. Este bulcle nos va a ayudar a repetir un bloque de códigos muchas veces, para no tener que escribirlos infinitamente.
+
+&&, ||, ! : Las 3 expresiones interactuan con valore booleanos.
+- La expresión '&&' es un operador logico que nos permite unir dos condiciones o mas cuando usamos booleano (verdadero o falso)
+- La expresión '||' es un operador lógico que en este caso nos permite optar por dos condiciones o mas cuando usamos booleano (verdadero o falso)
+- La expresión '!' es una expresión de Negación. Comprueba si dos opciones no son iguales y devuelve un resultado booleano (verdadero o falso)
